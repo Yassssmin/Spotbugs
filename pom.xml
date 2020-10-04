@@ -95,7 +95,7 @@
         <repository>
             <id>github</id>
             <name>GitHub Yassssmin Apache Maven Packages</name>
-            <url>https://maven.pkg.github.com/Yassssmin/syndrome100-</url>
+            <url>https://maven.pkg.github.com/Yassssmin/spotbugs</url>
         </repository>
     </distributionManagement>
 </project>
